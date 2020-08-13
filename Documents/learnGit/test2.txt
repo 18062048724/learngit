@@ -1,7 +1,2 @@
 hello.
 add second line.
-<<<<<<< HEAD
-add2.
-=======
-change2.
->>>>>>> m
